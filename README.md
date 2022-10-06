@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mk346
+- 👋 Hi, I’m Caleb
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Model Training in python
 - 💞️ I’m looking to collaborate on ...
