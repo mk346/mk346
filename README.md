@@ -1,7 +1,7 @@
 <img align="center" alt="Python" width="1500" src="https://i.gifer.com/origin/32/32e3494b4e27ace81a100b0d414311f0.gif">
 <h1 align="center">Hi 👋, I'm Caleb Munene</h1>
 <h3 align="center">A passionate Full Stack developer from Kenya</h3>
-<img align="right" alt="Coding" width="600" src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-5.gif">
+<img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk346&label=Profile%20views&color=0e75b6&style=flat" alt="mk346" /> </p>
 
