@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk346&label=Profile%20views&color=0e75b6&style=flat" alt="mk346" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mk346" alt="mk346" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mk254_c" target="blank"><img src="https://img.shields.io/twitter/follow/mk254_c?logo=twitter&style=for-the-badge" alt="mk254_c" /></a> </p>
 
