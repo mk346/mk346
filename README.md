@@ -8,7 +8,7 @@
 
 - 🌱 Ask me about **Python**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Trying **Machine Learning**
 
 - 📫 How to reach me **calebkinyuamunene@gmail.com**
 
